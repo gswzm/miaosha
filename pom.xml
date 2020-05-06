@@ -136,7 +136,7 @@
                         <!--允许移动生成的文件-->
                         <verbose>true</verbose>
                         <!--是否运行自动覆盖 实际中不要设置true 会覆盖别人的代码-->
-                        <overwrite>true</overwrite>
+                        <overwrite>false</overwrite>
                         <configurationFile>
                             src/main/resources/mybatis-generator.xml
                         </configurationFile>
